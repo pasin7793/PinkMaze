@@ -1,1 +1,1 @@
-# MazeC
+# C Project.
